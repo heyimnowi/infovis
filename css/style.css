@@ -111,8 +111,9 @@ p {
     margin-right: 0;
 }
 
-.rect-reference span {
+.reference span {
     display: inline-block;
+    vertical-align: middle;
 }
 
 .rect-agree {
