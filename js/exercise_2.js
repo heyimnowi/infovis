@@ -39,8 +39,8 @@ $( document ).ready(function() {
   ]
 
   var svgContainer = d3.select("#container").append("svg")
-                                           .attr("width", 400)
-                                           .attr("height", 300);
+                                           .attr("width", 350)
+                                           .attr("height", 200);
 
   for (var i = dataset.length - 1; i >= 0; i--) {
     console.log(i);
@@ -50,18 +50,18 @@ $( document ).ready(function() {
                 .enter()
                 .append('text')
                 .text(function(d) { return d.text; })
-                .style( "color", "#521262")
                 .style("font-size", "14px")
                 .style("display", "inline-block")
-                .attr("y", function(d,i) { return 10+i*25});
+                .style("line-height", "20px")
+                .attr("y", function(d,i) { return 18+i*25});
                 
     svgContainer.selectAll('rect1')
                 .data(dataset)
                 .enter()
                 .append('rect')
-                .attr("fill", "#521262")
+                .attr("fill", "#80EF91")
                 .attr("y", function(d,i) { return i*25})
-                .attr("x", "300")
+                .attr("x", "250")
                 .style("height", "20px")
                 .style("display", "inline-block")
                 .style("width", function(d) { return d.agree + 'px'});
@@ -71,9 +71,9 @@ $( document ).ready(function() {
                 .data(dataset)
                 .enter()
                 .append('rect')
-                .attr("fill", "#6639A6")
+                .attr("fill", "#DFE0D4")
                 .attr("y", function(d,i) { return i*25})
-                .attr("x", function(d) { return 300+d.agree })
+                .attr("x", function(d) { return 250+d.agree })
                 .style("height", "20px")
                 .style("display", "inline-block")
                 .style("width", function(d) { return d.neutral + 'px'});
@@ -82,9 +82,9 @@ $( document ).ready(function() {
                 .data(dataset)
                 .enter()
                 .append('rect')
-                .attr("fill", "#3490DE")
+                .attr("fill", "#FF5335")
                 .attr("y", function(d,i) { return i*25})
-                .attr("x", function(d) { return 300+d.agree + d.neutral })
+                .attr("x", function(d) { return 250+d.agree + d.neutral })
                 .style("height", "20px")
                 .style("display", "inline-block")
                 .style("width", function(d) { return d.disagree + 'px'});

@@ -15,6 +15,7 @@
     width: 800px;
     padding: 50px;
     text-align: center;
+    max-width: 80%;
 }
 
 .pink-link {
@@ -24,4 +25,12 @@
     width: 200px;
     display: block;
     text-decoration: none;
+}
+
+/* ------------ MEDIA ------------ */
+
+@media (max-width: 992px) {
+    .white-container {
+        padding: 10px;
+    }
 }

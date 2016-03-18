@@ -16,6 +16,10 @@ h1 {
     font-family: 'Dosis', sans-serif;
 }
 
+.title {
+    margin-top: 70px;
+}
+
 h2 {
     font-weight: 300;
 }
@@ -90,3 +94,56 @@ p {
     display: inline-block;
 }
 
+.rect-reference {
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.reference {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.reference:last-child {
+    margin-right: 0;
+}
+
+.rect-reference span {
+    display: inline-block;
+}
+
+.rect-agree {
+    background-color: #80EF91;
+}
+
+.rect-neutral {
+    background-color: #DFE0D4;
+}
+
+.rect-disagree {
+    background-color: #FF5335;
+}
+
+/* ------------ MEDIA ------------ */
+
+@media (max-width: 992px) {
+    h1 {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .link {
+        font-size: 16px;
+    }
+}
