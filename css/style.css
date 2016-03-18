@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis:400,300,700);
+
+body,
+html {
+	background-color: #FFF;
+	height: 100%;
+	font-family: 'Dosis', sans-serif;
+}
+
+/* ------------ TEXT  ------------ */
+
+h1 {    
+    font-size: 60px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+h2 {
+    font-weight: 300;
+}
+p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+/* ------------ LINKS  ------------ */
+
+.link {
+    padding: 10px 20px;
+}
+
+.pink-link {
+    color: #FF2E63;
+    border: 3px solid #FF2E63;
+}
+
+.pink-link:focus {
+    color: #08D9D6;
+    border: 3px solid #08D9D6;
+}
+
+.back-arrow {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.back-arrow img {
+    width: 25px;
+}
+
+/* ------------ OTHERS  ------------ */
+
+h1 {    
+    font-size: 60px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+h2 {
+    font-weight: 300;
+}
+p {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.bar {
+	height: 2px;
+    background-color: #FF2E63;
+    width: 200px;
+    margin: 0 auto;
+}
+
+/* ------------ EXERCISES ------------ */
+
+.exercise,
+.exercises {
+    text-align: center;
+}
+
+.exercise h2 {
+    margin-bottom: 70px;
+}
+
+.exercise-1 p {
+    margin-right: 10px;
+    display: inline-block;
+}
+

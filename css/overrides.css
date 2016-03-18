@@ -1,0 +1,22 @@
+.og-expander {
+	background-color: #EAEAEA;
+}
+
+.og-grid li.og-expanded > a::after {
+	border-bottom-color: #EAEAEA;
+}
+
+.og-details a {
+    color: #FF2E63;
+    border: 3px solid #FF2E63;
+}
+
+.og-details a:hover,
+.og-details a:focus {
+    color: #08D9D6;
+    border: 3px solid #08D9D6;
+}
+
+.og-grid li > a img {
+	width: 200px;
+}
