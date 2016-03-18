@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
-    <title>2</title>
+    <title>4</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="2" sketch:type="MSLayerGroup">
-            <rect id="Rectangle-1" fill="#94ED88" sketch:type="MSShapeGroup" x="0" y="0" width="500" height="500"></rect>
-            <text fill="#FCEFED" sketch:type="MSTextLayer" font-family="Dosis" font-size="339.371343" font-weight="260">
-                <tspan x="168" y="384" fill="#F5F5F5">2</tspan>
+        <g id="4" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-1" fill="#FF6600" sketch:type="MSShapeGroup" x="0" y="0" width="500" height="500"></rect>
+            <text fill="#F7F7CF" sketch:type="MSTextLayer" font-family="Dosis" font-size="339.371343" font-weight="260">
+                <tspan x="172" y="385">4</tspan>
             </text>
         </g>
     </g>
