@@ -341,6 +341,224 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Boyce Avenue",
+			"size": 78,
+			"children": [
+				{
+					"name": "Cover Sessions, Vol. 2",
+					"size": 29,
+					"children": [
+						{
+							"name": "Everlong",
+							"size": 7
+						},
+						{
+							"name": "Game of Thrones (Main Theme)",
+							"size": 5
+						},
+						{
+							"name": "Beautiful Soul",
+							"size": 3
+						},
+						{
+							"name": "Hello",
+							"size": 3
+						},
+						{
+							"name": "I'm Not the Only One",
+							"size": 3
+						},
+						{
+							"name": "Want to Want Me",
+							"size": 3
+						},
+						{
+							"name": "Be More Barrio",
+							"size": 2
+						},
+						{
+							"name": "Thinking out Loud",
+							"size": 2
+						},
+						{
+							"name": "Love Me Like You Do",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Cover Sessions, Vol. 1",
+					"size": 12,
+					"children": [
+						{
+							"name": "Happy",
+							"size": 3
+						},
+						{
+							"name": "Blame",
+							"size": 2
+						},
+						{
+							"name": "Waves",
+							"size": 2
+						},
+						{
+							"name": "A Sky Full of Stars",
+							"size": 1
+						},
+						{
+							"name": "All of Me",
+							"size": 1
+						},
+						{
+							"name": "Not a Bad Thing",
+							"size": 1
+						},
+						{
+							"name": "Wanted",
+							"size": 1
+						},
+						{
+							"name": "Your Body Is a Wonderland",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "New Acoustic Sessions, Vol. 3",
+					"size": 10,
+					"children": [
+						{
+							"name": "Somebody That I Used to Know",
+							"size": 6
+						},
+						{
+							"name": "I Want It That Way",
+							"size": 3
+						},
+						{
+							"name": "The A Team",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Road Less Traveled",
+					"size": 6,
+					"children": [
+						{
+							"name": "Cinderella",
+							"size": 2
+						},
+						{
+							"name": "Be Somebody",
+							"size": 1
+						},
+						{
+							"name": "Your Biggest Fan",
+							"size": 1
+						},
+						{
+							"name": "Imperfect Me",
+							"size": 1
+						},
+						{
+							"name": "Ride the Wave",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "New Acoustic Sessions, Vol. 1",
+					"size": 5,
+					"children": [
+						{
+							"name": "Dynamite",
+							"size": 2
+						},
+						{
+							"name": "Just Can't Get Enough",
+							"size": 2
+						},
+						{
+							"name": "Just the Way You Are",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Acoustic Sessions: Vol. 1",
+					"size": 3,
+					"children": [
+						{
+							"name": "Leave Out All The Rest - Bonus Track",
+							"size": 1
+						},
+						{
+							"name": "Shadow of the Day",
+							"size": 1
+						},
+						{
+							"name": "Take You There",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "New Acoustic Sessions, Vol. 5",
+					"size": 3,
+					"children": [
+						{
+							"name": "Daylight",
+							"size": 1
+						},
+						{
+							"name": "I Knew You Were Trouble",
+							"size": 1
+						},
+						{
+							"name": "Locked Out of Heaven",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Acoustic Sessions Vol. 3",
+					"size": 2,
+					"children": [
+						{
+							"name": "Good Riddance (Time of Your Life)",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Cover Collaborations, Vol. 3",
+					"size": 2,
+					"children": [
+						{
+							"name": "See You Again (feat. Bea Miller)",
+							"size": 1
+						},
+						{
+							"name": "Stay (feat. Mandy Lee)",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Acoustic Sessions, Vol. 3",
+					"size": 1,
+					"children": [
+						{
+							"name": "What Goes Around / Rehab - Bonus Track",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }

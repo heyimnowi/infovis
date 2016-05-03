@@ -51,7 +51,7 @@ $( document ).ready(function() {
 	// Keep track of the node that is currently being displayed as the root.
 	var node;
 
-	d3.json("https://raw.githubusercontent.com/noeliablopez/infovis/e59e5c3110004150525c1b24648a9c4c6ace6898/data/topArtist.json", function(error, root) {
+	d3.json("https://raw.githubusercontent.com/noeliablopez/infovis/gh-pages/data/topArtist.json", function(error, root) {
 	  node = root;
 	  var path = svg.datum(root).selectAll("path")
 	      .data(partition.nodes)
