@@ -745,6 +745,108 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Noel Gallagher's High Flying Birds",
+			"size": 38,
+			"children": [
+				{
+					"name": "Noel Gallagher's High Flying Birds",
+					"size": 27,
+					"children": [
+						{
+							"name": "(Stranded on) The Wrong Beach",
+							"size": 6
+						},
+						{
+							"name": "(I Wanna Live in a Dream in My) Record Machine",
+							"size": 3
+						},
+						{
+							"name": "AKA...What A Life!",
+							"size": 3
+						},
+						{
+							"name": "Dream On",
+							"size": 3
+						},
+						{
+							"name": "If I Had a Gun...",
+							"size": 3
+						},
+						{
+							"name": "The Death of You and Me",
+							"size": 3
+						},
+						{
+							"name": "A Simple Game of Genius",
+							"size": 2
+						},
+						{
+							"name": "AKA...Broken Arrow",
+							"size": 2
+						},
+						{
+							"name": "Everybody's on the Run",
+							"size": 1
+						},
+						{
+							"name": "Stop the Clocks",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Chasing Yesterday (Deluxe)",
+					"size": 7,
+					"children": [
+						{
+							"name": "You Know We Can't Go Back",
+							"size": 3
+						},
+						{
+							"name": "Riverman",
+							"size": 2
+						},
+						{
+							"name": "In the Heat of the Moment",
+							"size": 1
+						},
+						{
+							"name": "The Mexican",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Chasing Yesterday",
+					"size": 3,
+					"children": [
+						{
+							"name": "Riverman",
+							"size": 1
+						},
+						{
+							"name": "The Girl With X-Ray Eyes",
+							"size": 1
+						},
+						{
+							"name": "The Mexican",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "The Dying of the Light",
+					"size": 1,
+					"children": [
+						{
+							"name": "The Dying of the Light",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }
