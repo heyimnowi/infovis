@@ -1,5 +1,6 @@
 {
 	"name": "Top artist",
+	"size": 10,
 	"children": [
 		{
 			"name": "Florence + the Machine",
