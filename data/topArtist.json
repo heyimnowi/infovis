@@ -847,6 +847,78 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "The Weeknd",
+			"size": 35,
+			"children": [
+				{
+					"name": "Beauty Behind the Madness",
+					"size": 32,
+					"children": [
+						{
+							"name": "Can't Feel My Face",
+							"size": 6
+						},
+						{
+							"name": "Prisoner",
+							"size": 6
+						},
+						{
+							"name": "Losers",
+							"size": 5
+						},
+						{
+							"name": "Real Life",
+							"size": 5
+						},
+						{
+							"name": "Acquainted",
+							"size": 2
+						},
+						{
+							"name": "In The Night",
+							"size": 2
+						},
+						{
+							"name": "Often",
+							"size": 2
+						},
+						{
+							"name": "Tell Your Friends",
+							"size": 2
+						},
+						{
+							"name": "Dark Times",
+							"size": 1
+						},
+						{
+							"name": "The Hills",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "The Hills Remixes",
+					"size": 2,
+					"children": [
+						{
+							"name": "The Hills - Remix",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Earned It (Fifty Shades Of Grey) [From The 'Fifty Shades Of Grey' Soundtrack]",
+					"size": 1,
+					"children": [
+						{
+							"name": "Earned It (Fifty Shades Of Grey) [From The 'Fifty Shades Of Grey' Soundtrack]",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }
