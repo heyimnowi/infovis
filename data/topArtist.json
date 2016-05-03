@@ -559,6 +559,192 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "The kooks",
+			"size": 51,
+			"children": [
+				{
+					"name": "Konk",
+					"size": 18,
+					"children": [
+						{
+							"name": "See the Sun",
+							"size": 5
+						},
+						{
+							"name": "Always Where I Need to Be",
+							"size": 3
+						},
+						{
+							"name": "Do You Wanna",
+							"size": 2
+						},
+						{
+							"name": "Down to the Market",
+							"size": 2
+						},
+						{
+							"name": "Mr. Maker",
+							"size": 2
+						},
+						{
+							"name": "Shine On",
+							"size": 2
+						},
+						{
+							"name": "Stormy Weather",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Listen",
+					"size": 18,
+					"children": [
+						{
+							"name": "Bad Habit",
+							"size": 5
+						},
+						{
+							"name": "Sweet Emotion",
+							"size": 4
+						},
+						{
+							"name": "It Was London",
+							"size": 3
+						},
+						{
+							"name": "Are We Electric",
+							"size": 2
+						},
+						{
+							"name": "Westside",
+							"size": 2
+						},
+						{
+							"name": "Around Town",
+							"size": 1
+						},
+						{
+							"name": "Forgive & Forget",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Inside In / Inside Out",
+					"size": 14,
+					"children": [
+						{
+							"name": "Ooh La",
+							"size": 6
+						},
+						{
+							"name": "If Only",
+							"size": 3
+						},
+						{
+							"name": "Naïve",
+							"size": 2
+						},
+						{
+							"name": "Seaside",
+							"size": 1
+						},
+						{
+							"name": "See the World",
+							"size": 1
+						},
+						{
+							"name": "She Moves in Her Own Way",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Junk of the Heart",
+					"size": 1,
+					"children": [
+						{
+							"name": "Junk of the Heart (Happy)",
+							"size": 1
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Years & Years",
+			"size": 44,
+			"children": [
+				{
+					"name": "Desire",
+					"size": 18,
+					"children": [
+						{
+							"name": "Desire",
+							"size": 18
+						}
+					]
+				},
+				{
+					"name": "Communion",
+					"size": 13,
+					"children": [
+						{
+							"name": "King",
+							"size": 7
+						},
+						{
+							"name": "Desire",
+							"size": 3
+						},
+						{
+							"name": "Gold",
+							"size": 1
+						},
+						{
+							"name": "Memo",
+							"size": 1
+						},
+						{
+							"name": "Real",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Desire (Gryffin Remix)",
+					"size": 11,
+					"children": [
+						{
+							"name": "Desire (Gryffin Remix)",
+							"size": 11
+						}
+					]
+				},
+				{
+					"name": "Communion (Deluxe)",
+					"size": 1,
+					"children": [
+						{
+							"name": "Shine",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "King",
+					"size": 1,
+					"children": [
+						{
+							"name": "King",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }
