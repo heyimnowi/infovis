@@ -919,6 +919,84 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Justin Bieber",
+			"size": 34,
+			"children": [
+				{
+					"name": "Purpose (Deluxe)",
+					"size": 31,
+					"children": [
+						{
+							"name": "Sorry",
+							"size": 5
+						},
+						{
+							"name": "Company",
+							"size": 4
+						},
+						{
+							"name": "What Do You Mean?",
+							"size": 4
+						},
+						{
+							"name": "All in It",
+							"size": 2
+						},
+						{
+							"name": "Been You",
+							"size": 2
+						},
+						{
+							"name": "Children",
+							"size": 2
+						},
+						{
+							"name": "Get Used To It",
+							"size": 2
+						},
+						{
+							"name": "Love Yourself",
+							"size": 2
+						},
+						{
+							"name": "No pressure",
+							"size": 2
+						},
+						{
+							"name": "No Sense",
+							"size": 2
+						},
+						{
+							"name": "Trust",
+							"size": 2
+						},
+						{
+							"name": "Mark My Words",
+							"size": 1
+						},
+						{
+							"name": "We Are",
+							"size": 1
+						},
+						{
+							"name": "What Do You Mean? - Acoustic",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Believe Acoustic",
+					"size": 3,
+					"children": [
+						{
+							"name": "Boyfriend - Acoustic Version",
+							"size": 3
+						}
+					]
+				}
+			]
 		}
 	]
 }
