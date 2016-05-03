@@ -1,0 +1,345 @@
+{
+	"name": "Top artist",
+	"children": [
+		{
+			"name": "Florence + the Machine",
+			"size": 133,
+			"children": [
+				{
+					"name": "How Big, How Blue, How Beautiful (Deluxe)",
+					"size": 51,
+					"children": [
+						{
+							"name": "Delilah",
+							"size": 15
+						},
+						{
+							"name": "What Kind of Man",
+							"size": 12
+						},
+						{
+							"name": "Ship to Wreck",
+							"size": 8
+						},
+						{
+							"name": "Make Up Your Mind - Bonus Track",
+							"size": 4
+						},
+						{
+							"name": "Caught",
+							"size": 2
+						},
+						{
+							"name": "How Big, How Blue, How Beautiful - Demo / Bonus Track",
+							"size": 1
+						},
+						{
+							"name": "Hiding - Bonus Track",
+							"size": 1
+						},
+						{
+							"name": "How Big, How Blue, How Beautiful",
+							"size": 1
+						},
+						{
+							"name": "Long & Lost",
+							"size": 1
+						},
+						{
+							"name": "St Jude",
+							"size": 1
+						},
+						{
+							"name": "Third Eye",
+							"size": 1
+						},
+						{
+							"name": "Third Eye - Demo / Bonus Track",
+							"size": 1
+						},
+						{
+							"name": "Various Storms & Saints",
+							"size": 1
+						},
+						{
+							"name": "Which Witch - Demo / Bonus Track",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Between Two Lungs",
+					"size": 41,
+					"children": [
+						{
+							"name": "You've Got the Love",
+							"size": 15
+						},
+						{
+							"name": "Dog Days Are Over",
+							"size": 14
+						},
+						{
+							"name": "Rabbit Heart (Raise It Up)",
+							"size": 5
+						},
+						{
+							"name": "Drumming Song",
+							"size": 3
+						},
+						{
+							"name": "Between Two Lungs",
+							"size": 1
+						},
+						{
+							"name": "Blinding",
+							"size": 1
+						},
+						{
+							"name": "Drumming Song - iTunes Live: London Festival / 2010",
+							"size": 1
+						},
+						{
+							"name": "My Boy Builds Coffins",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Ceremonials (Original Deluxe Version)",
+					"size": 26,
+					"children": [
+						{
+							"name": "Spectrum",
+							"size": 14
+						},
+						{
+							"name": "What the Water Gave Me",
+							"size": 6
+						},
+						{
+							"name": "Dog Days Are Over - Live At Intima Theater, Stockholm",
+							"size": 1
+						},
+						{
+							"name": "Bedroom Hymns",
+							"size": 1
+						},
+						{
+							"name": "Lover to Lover",
+							"size": 1
+						},
+						{
+							"name": "No Light, No Light",
+							"size": 1
+						},
+						{
+							"name": "Remain Nameless",
+							"size": 1
+						},
+						{
+							"name": "Shake It Out (acoustic)",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "MTV Presents Unplugged: Florence + the Machine",
+					"size": 7,
+					"children": [
+						{
+							"name": "Dog Days Are Over - MTV Unplugged, 2012",
+							"size": 2
+						},
+						{
+							"name": "What The Water Gave Me - MTV Unplugged, 2012",
+							"size": 2
+						},
+						{
+							"name": "Drumming Song - MTV Unplugged, 2012",
+							"size": 1
+						},
+						{
+							"name": "Only If For A Night - MTV Unplugged, 2012",
+							"size": 1
+						},
+						{
+							"name": "Try A Little Tenderness - MTV Unplugged, 2012",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Ceremonials",
+					"size": 5,
+					"children": [
+						{
+							"name": "Breaking Down",
+							"size": 1
+						},
+						{
+							"name": "Leave My Body",
+							"size": 1
+						},
+						{
+							"name": "Never Let Me Go",
+							"size": 1
+						},
+						{
+							"name": "Seven Devils",
+							"size": 1
+						},
+						{
+							"name": "Take Care - BBC Live At Maida Vale/2011",
+							"size": 1
+						}
+					] 
+				},
+				{
+					"name": "Lungs (Deluxe Version)",
+					"size": 5,
+					"children": [
+						{
+							"name": "Cosmic Love",
+							"size": 1
+						},
+						{
+							"name": "Dog Days Are Over",
+							"size": 1
+						},
+						{
+							"name": "Falling",
+							"size": 1
+						},
+						{
+							"name": "Girl With One Eye (Bayou Percussion Version)",
+							"size": 1
+						},
+						{
+							"name": "Rabbit Heart (Raise It Up)",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Ceremonials (Original Deluxe Version)",
+					"size": 26,
+					"children": [
+						{
+							"name": "Spectrum",
+							"size": 14
+						},
+						{
+							"name": "What the Water Gave Me",
+							"size": 6
+						},
+						{
+							"name": "Dog Days Are Over - Live At Intima Theater, Stockholm",
+							"size": 1
+						},
+						{
+							"name": "Bedroom Hymns",
+							"size": 1
+						},
+						{
+							"name": "Lover to Lover",
+							"size": 1
+						},
+						{
+							"name": "No Light, No Light",
+							"size": 1
+						},
+						{
+							"name": "Remain Nameless",
+							"size": 1
+						},
+						{
+							"name": "Shake It Out (acoustic)",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "MTV Presents Unplugged: Florence + the Machine",
+					"size": 7,
+					"children": [
+						{
+							"name": "Dog Days Are Over - MTV Unplugged, 2012",
+							"size": 2
+						},
+						{
+							"name": "What The Water Gave Me - MTV Unplugged, 2012",
+							"size": 2
+						},
+						{
+							"name": "Drumming Song - MTV Unplugged, 2012",
+							"size": 1
+						},
+						{
+							"name": "Only If For A Night - MTV Unplugged, 2012",
+							"size": 1
+						},
+						{
+							"name": "Try A Little Tenderness - MTV Unplugged, 2012",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Ceremonials",
+					"size": 5,
+					"children": [
+						{
+							"name": "Cosmic Love",
+							"size": 1
+						},
+						{
+							"name": "Dog Days Are Over",
+							"size": 1
+						},
+						{
+							"name": "Falling",
+							"size": 1
+						},
+						{
+							"name": "Girl With One Eye (Bayou Percussion Version)",
+							"size": 1
+						},
+						{
+							"name": "Rabbit Heart (Raise It Up)",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Lungs (International Version)",
+					"size": 3,
+					"children": [
+						{
+							"name": "Blinding",
+							"size": 1
+						},
+						{
+							"name": "Dog Days Are Over",
+							"size": 1
+						},
+						{
+							"name": "Girl with One Eye",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
+					"size": 1,
+					"children": [
+						{
+							"name": "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
+							"size": 1
+						}
+					]
+				}
+			]
+		}
+	]
+}
