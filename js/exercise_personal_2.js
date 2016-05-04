@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
 	var widthTopArtist = 960,
-	    heightTopAritst = 700,
+	    heightTopAritst = 1100,
 	    radius = Math.min(widthTopArtist, heightTopAritst) / 2;
 
 	var x = d3.scale.linear()

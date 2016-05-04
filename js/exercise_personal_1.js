@@ -10,9 +10,6 @@ $( document ).ready(function() {
                   .domain([1, 25])
                   .range([1, 300]);
 
-  // No funciona d3.max
-  // console.log(d3.max(topTracksArray, function(d) { return d.playcount; }));
-
 	var color = d3.scale.quantile()
 	              .domain([0, 5, 10, 15, 20, 25])
 	              .range(["#CBFFCE", "#90E0AB", "#0FC1A1", "#106EE8", "#07588A", "#0C056D"]);
@@ -37,7 +34,7 @@ $( document ).ready(function() {
 					.append("div") 
 					.attr("class", "tooltip-1");
 
-	$.get("http://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&user=lopeznoeliab&limit=15&api_key=42188804bb4145d42e9cfbd2e260c53c&format=json", function(data, status){
+	$.get("http://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&user=lopeznoeliab&limit=20&api_key=42188804bb4145d42e9cfbd2e260c53c&format=json", function(data, status){
     
     const trackArrayResponse = data.toptracks.track;
     trackArrayResponse.forEach(function (track) {
@@ -66,7 +63,7 @@ $( document ).ready(function() {
 				        	div
 					        	.html("<p><span>Track:</span>" + d.data.name +"</p>"+
 					        				"<p><span>Artist:</span>" + d.data.artist + "</p>"+
-					        				"<p><span>Playcount:</span>" + d.data.playcount + "</p>")
+					        				"<p><span>Cantidad de reproducciones:</span>" + d.data.playcount + "</p>")
 					            .style("left", (d3.event.pageX+12) + "px")
 					            .style("top", (d3.event.pageY-10) + "px")
 					            .style("opacity", 1)
@@ -77,8 +74,7 @@ $( document ).ready(function() {
 
 		g.append("path")
 			.attr("d",arc)
-			.style("fill",function(d){ return color(d.data.playcount);})
-			.attr("d", arc);
+			.style("fill",function(d){ return color(d.data.playcount);});
   });
 });
 
