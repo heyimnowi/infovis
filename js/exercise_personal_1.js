@@ -61,9 +61,9 @@ $( document ).ready(function() {
 				        	var mouseVal = d3.mouse(this);
 				        	div.style("display","none");
 				        	div
-					        	.html("<p><span>Track:</span>" + d.data.name +"</p>"+
-					        				"<p><span>Artist:</span>" + d.data.artist + "</p>"+
-					        				"<p><span>Cantidad de reproducciones:</span>" + d.data.playcount + "</p>")
+					        	.html("<p><span>Canción:</span>" + d.data.name +"</p>"+
+					        				"<p><span>Artista:</span>" + d.data.artist + "</p>"+
+					        				"<p><span>Reproducciones:</span>" + d.data.playcount + "</p>")
 					            .style("left", (d3.event.pageX+12) + "px")
 					            .style("top", (d3.event.pageY-10) + "px")
 					            .style("opacity", 1)
