@@ -1,341 +1,421 @@
 {
 	"name": "Top artist",
 	"size": 10,
+	"color": "#FFF",
 	"children": [
 		{
 			"name": "Florence + the Machine",
+			"color": "#FF3562",
 			"size": 133,
 			"children": [
 				{
 					"name": "How Big, How Blue, How Beautiful (Deluxe)",
+					"color": "#FF3562",
 					"size": 51,
 					"children": [
 						{
 							"name": "Delilah",
+							"color": "#FF3562",
 							"size": 15
 						},
 						{
 							"name": "What Kind of Man",
+							"color": "#FF3562",
 							"size": 12
 						},
 						{
 							"name": "Ship to Wreck",
+							"color": "#FF3562",
 							"size": 8
 						},
 						{
 							"name": "Make Up Your Mind - Bonus Track",
+							"color": "#FF3562",
 							"size": 4
 						},
 						{
 							"name": "Caught",
+							"color": "#FF3562",
 							"size": 2
 						},
 						{
 							"name": "How Big, How Blue, How Beautiful - Demo / Bonus Track",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Hiding - Bonus Track",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "How Big, How Blue, How Beautiful",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Long & Lost",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "St Jude",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Third Eye",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Third Eye - Demo / Bonus Track",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Various Storms & Saints",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Which Witch - Demo / Bonus Track",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Between Two Lungs",
+					"color": "#FF3562",
 					"size": 41,
 					"children": [
 						{
 							"name": "You've Got the Love",
+							"color": "#FF3562",
 							"size": 15
 						},
 						{
 							"name": "Dog Days Are Over",
+							"color": "#FF3562",
 							"size": 14
 						},
 						{
 							"name": "Rabbit Heart (Raise It Up)",
+							"color": "#FF3562",
 							"size": 5
 						},
 						{
 							"name": "Drumming Song",
+							"color": "#FF3562",
 							"size": 3
 						},
 						{
 							"name": "Between Two Lungs",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Blinding",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Drumming Song - iTunes Live: London Festival / 2010",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "My Boy Builds Coffins",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Ceremonials (Original Deluxe Version)",
+					"color": "#FF3562",
 					"size": 26,
 					"children": [
 						{
 							"name": "Spectrum",
+							"color": "#FF3562",
 							"size": 14
 						},
 						{
 							"name": "What the Water Gave Me",
+							"color": "#FF3562",
 							"size": 6
 						},
 						{
 							"name": "Dog Days Are Over - Live At Intima Theater, Stockholm",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Bedroom Hymns",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Lover to Lover",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "No Light, No Light",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Remain Nameless",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Shake It Out (acoustic)",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "MTV Presents Unplugged: Florence + the Machine",
+					"color": "#FF3562",
 					"size": 7,
 					"children": [
 						{
 							"name": "Dog Days Are Over - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 2
 						},
 						{
 							"name": "What The Water Gave Me - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 2
 						},
 						{
 							"name": "Drumming Song - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Only If For A Night - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Try A Little Tenderness - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Ceremonials",
+					"color": "#FF3562",
 					"size": 5,
 					"children": [
 						{
 							"name": "Breaking Down",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Leave My Body",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Never Let Me Go",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Seven Devils",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Take Care - BBC Live At Maida Vale/2011",
+							"color": "#FF3562",
 							"size": 1
 						}
 					] 
 				},
 				{
 					"name": "Lungs (Deluxe Version)",
+					"color": "#FF3562",
 					"size": 5,
 					"children": [
 						{
 							"name": "Cosmic Love",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Dog Days Are Over",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Falling",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Girl With One Eye (Bayou Percussion Version)",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Rabbit Heart (Raise It Up)",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Ceremonials (Original Deluxe Version)",
+					"color": "#FF3562",
 					"size": 26,
 					"children": [
 						{
 							"name": "Spectrum",
+							"color": "#FF3562",
 							"size": 14
 						},
 						{
 							"name": "What the Water Gave Me",
+							"color": "#FF3562",
 							"size": 6
 						},
 						{
 							"name": "Dog Days Are Over - Live At Intima Theater, Stockholm",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Bedroom Hymns",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Lover to Lover",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "No Light, No Light",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Remain Nameless",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Shake It Out (acoustic)",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "MTV Presents Unplugged: Florence + the Machine",
+					"color": "#FF3562",
 					"size": 7,
 					"children": [
 						{
 							"name": "Dog Days Are Over - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 2
 						},
 						{
 							"name": "What The Water Gave Me - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 2
 						},
 						{
 							"name": "Drumming Song - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Only If For A Night - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Try A Little Tenderness - MTV Unplugged, 2012",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Ceremonials",
+					"color": "#FF3562",
 					"size": 5,
 					"children": [
 						{
 							"name": "Cosmic Love",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Dog Days Are Over",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Falling",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Girl With One Eye (Bayou Percussion Version)",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Rabbit Heart (Raise It Up)",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Lungs (International Version)",
+					"color": "#FF3562",
 					"size": 3,
 					"children": [
 						{
 							"name": "Blinding",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Dog Days Are Over",
+							"color": "#FF3562",
 							"size": 1
 						},
 						{
 							"name": "Girl with One Eye",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
+					"color": "#FF3562",
 					"size": 1,
 					"children": [
 						{
 							"name": "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
+							"color": "#FF3562",
 							"size": 1
 						}
 					]
