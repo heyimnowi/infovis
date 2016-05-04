@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 
-	var widthTopArtist = 960,
-	    heightTopAritst = 1100,
+	var widthTopArtist = 350,
+	    heightTopAritst = 400,
 	    radius = Math.min(widthTopArtist, heightTopAritst) / 2;
 
 	var x = d3.scale.linear()
@@ -32,6 +32,11 @@ $( document ).ready(function() {
         .style("opacity", 0.9);
     }
 
+ function mouseOut(d) {
+ 	tooltip.html("");
+ 	return tooltip;
+ }
+
 	var svg = d3.select("#container-2").append("svg")
 	    .attr("width", widthTopArtist)
 	    .attr("height", heightTopAritst)
@@ -60,6 +65,7 @@ $( document ).ready(function() {
 	      .style("fill", function(d) { return colorTopArtist((d.children ? d : d.parent).name); })
 	      .on("click", click)
 	      .on("mouseover", mouseOverArc)
+	      .on("mouseout", mouseOut)
 	      .each(stash);
 
 

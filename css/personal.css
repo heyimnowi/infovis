@@ -4,14 +4,16 @@
     background-color: #1ED760;
 }
 
+.chart-notes {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
 .chart-notes p {
     display: block;
     margin: 0;
     line-height: 40px;
-}
-
-.chart-notes p:first-child {
-    margin-top: 30px;
 }
 
 .chart-notes a {
@@ -24,6 +26,19 @@
 
 #container-3 {
     margin-top: 60px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.exercise h2 {
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 15px;
 }
 
 /* TOP TRACKS */
