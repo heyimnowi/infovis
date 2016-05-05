@@ -1316,6 +1316,172 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Tyler Ward",
+			"color": "#F35B04",
+			"size": 31,
+			"children": [
+				{
+					"name": "Tyler Ward Covers, Vol. 5",
+					"color": "#F35B04",
+					"size": 10,
+					"children": [
+						{
+							"name": "No Diggity",
+							"color": "#F35B04",
+							"size": 4
+						},
+						{
+							"name": "22 - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Just Give Me a Reason - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Radioactive - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Stay - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "The Other Side - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "We Can't Stop - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Tyler Ward Covers, Vol. 4",
+					"color": "#F35B04",
+					"size": 9,
+					"children": [
+						{
+							"name": "Party Rock Anthem",
+							"color": "#F35B04",
+							"size": 4
+						},
+						{
+							"name": "Born this way",
+							"color": "#F35B04",
+							"size": 3
+						},
+						{
+							"name": "Till The World Ends",
+							"color": "#F35B04",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "The Hollywood Sessions",
+					"color": "#F35B04",
+					"size": 5,
+					"children": [
+						{
+							"name": "Boyfriend",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Is Anybody Out There",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Somebody That I Used To Know - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "We Are Young - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "What Makes You Beautiful - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Tyler Ward Covers Vol. 3",
+					"color": "#F35B04",
+					"size": 3,
+					"children": [
+						{
+							"name": "Dynamite",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Like A G6",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Teenage Dream - acoustic",
+							"color": "#F35B04",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Cookin' Covers",
+					"color": "#F35B04",
+					"size": 2,
+					"children": [
+						{
+							"name": "Shut Up & Dance - Acoustic",
+							"color": "#F35B04",
+							"size": 1
+						},
+						{
+							"name": "Sugar - Acoustic",
+							"color": "#F35B04",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Blank Space (Acoustic)",
+					"color": "#F35B04",
+					"size": 1,
+					"children": [
+						{
+							"name": "Blank Space (Acoustic)",
+							"color": "#F35B04",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Tyler Ward Covers, Volume 1",
+					"color": "#F35B04",
+					"size": 1,
+					"children": [
+						{
+							"name": "Never Say Never",
+							"color": "#F35B04",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }
