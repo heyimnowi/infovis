@@ -1482,6 +1482,144 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Coldplay",
+			"color": "#7678ED",
+			"size": 32,
+			"children": [
+				{
+					"name": "A Head Full Of Dreams",
+					"color": "#7678ED",
+					"size": 9,
+					"children": [
+						{
+							"name": "Hymn for the Weekend",
+							"color": "#7678ED",
+							"size": 4
+						},
+						{
+							"name": "Adventure Of A Lifetime",
+							"color": "#7678ED",
+							"size": 3
+						},
+						{
+							"name": "Everglow",
+							"color": "#7678ED",
+							"size": 1
+						},
+						{
+							"name": "Kaleidoscope",
+							"color": "#7678ED",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Adventure Of A Lifetime (Matoma Remix)",
+					"color": "#7678ED",
+					"size": 6,
+					"children": [
+						{
+							"name": "Adventure Of A Lifetime - Matoma Remix",
+							"color": "#7678ED",
+							"size": 6
+						}
+					]
+				},
+				{
+					"name": "A Rush of Blood to the Head",
+					"color": "#7678ED",
+					"size": 4,
+					"children": [
+						{
+							"name": "Green Eyes",
+							"color": "#7678ED",
+							"size": 3
+						},
+						{
+							"name": "Clocks",
+							"color": "#7678ED",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Ghost Stories",
+					"color": "#7678ED",
+					"size": 4,
+					"children": [
+						{
+							"name": "A Sky Full of Stars",
+							"color": "#7678ED",
+							"size": 3
+						},
+						{
+							"name": "Ink",
+							"color": "#7678ED",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Mylo Xyloto",
+					"color": "#7678ED",
+					"size": 4,
+					"children": [
+						{
+							"name": "Every Teardrop Is a Waterfall",
+							"color": "#7678ED",
+							"size": 2
+						},
+						{
+							"name": "Charlie Brown",
+							"color": "#7678ED",
+							"size": 1
+						},
+						{
+							"name": "Hurts Like Heaven",
+							"color": "#7678ED",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Adventure Of A Lifetime",
+					"color": "#7678ED",
+					"size": 2,
+					"children": [
+						{
+							"name": "Adventure Of A Lifetime",
+							"color": "#7678ED",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Viva la Vida or Death and All His Friends",
+					"color": "#7678ED",
+					"size": 2,
+					"children": [
+						{
+							"name": "Violet Hill",
+							"color": "#7678ED",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Princess of China",
+					"color": "#7678ED",
+					"size": 1,
+					"children": [
+						{
+							"name": "Princess of China - Acoustic",
+							"color": "#7678ED",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }
