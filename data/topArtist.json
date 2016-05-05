@@ -817,10 +817,12 @@
 				},
 				{
 					"name": "Junk of the Heart",
+							"color": "#724CF9",
 					"size": 1,
 					"children": [
 						{
 							"name": "Junk of the Heart (Happy)",
+							"color": "#724CF9",
 							"size": 1
 						}
 					]
