@@ -1224,6 +1224,98 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Jack Johnson",
+			"color": "#60D394",
+			"size": 30,
+			"children": [
+				{
+					"name": "In Between Dreams",
+					"color": "#60D394",
+					"size": 18,
+					"children": [
+						{
+							"name": "Better Together",
+							"color": "#60D394",
+							"size": 5
+						},
+						{
+							"name": "Banana Pancakes",
+							"color": "#60D394",
+							"size": 4
+						},
+						{
+							"name": "Good People",
+							"color": "#60D394",
+							"size": 4
+						},
+						{
+							"name": "Sitting, Waiting, Wishing",
+							"color": "#60D394",
+							"size": 4
+						},
+						{
+							"name": "Breakdown",
+							"color": "#60D394",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Brushfire Fairytales (International Version)",
+					"color": "#60D394",
+					"size": 6,
+					"children": [
+						{
+							"name": "Flake",
+							"color": "#60D394",
+							"size": 5
+						},
+						{
+							"name": "Bubble Toes",
+							"color": "#60D394",
+							"size": 1
+						}
+					]
+				},
+				{
+					"name": "Upside Down (UK MaxiSingEnhanced)",
+					"color": "#60D394",
+					"size": 3,
+					"children": [
+						{
+							"name": "Upside Down",
+							"color": "#60D394",
+							"size": 3
+						}
+					]
+				},
+				{
+					"name": "From Here To Now To You",
+					"color": "#60D394",
+					"size": 2,
+					"children": [
+						{
+							"name": "I Got You",
+							"color": "#60D394",
+							"size": 2
+						}
+					]
+				},
+				{
+					"name": "Brushfire Fairytales (Bonus version)",
+					"color": "#60D394",
+					"size": 1,
+					"children": [
+						{
+							"name": "Flake",
+							"color": "#60D394",
+							"size": 1
+						}
+					]
+				}
+			]
 		}
 	]
 }
