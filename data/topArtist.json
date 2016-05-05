@@ -424,216 +424,265 @@
 		},
 		{
 			"name": "Boyce Avenue",
+			"color": "#A74482",
 			"size": 78,
 			"children": [
 				{
 					"name": "Cover Sessions, Vol. 2",
+					"color": "#A74482",
 					"size": 29,
 					"children": [
 						{
 							"name": "Everlong",
+							"color": "#A74482",
 							"size": 7
 						},
 						{
 							"name": "Game of Thrones (Main Theme)",
+							"color": "#A74482",
 							"size": 5
 						},
 						{
 							"name": "Beautiful Soul",
+							"color": "#A74482",
 							"size": 3
 						},
 						{
 							"name": "Hello",
+							"color": "#A74482",
 							"size": 3
 						},
 						{
 							"name": "I'm Not the Only One",
+							"color": "#A74482",
 							"size": 3
 						},
 						{
 							"name": "Want to Want Me",
+							"color": "#A74482",
 							"size": 3
 						},
 						{
 							"name": "Be More Barrio",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "Thinking out Loud",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "Love Me Like You Do",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Cover Sessions, Vol. 1",
+					"color": "#A74482",
 					"size": 12,
 					"children": [
 						{
 							"name": "Happy",
+							"color": "#A74482",
 							"size": 3
 						},
 						{
 							"name": "Blame",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "Waves",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "A Sky Full of Stars",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "All of Me",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Not a Bad Thing",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Wanted",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Your Body Is a Wonderland",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "New Acoustic Sessions, Vol. 3",
+					"color": "#A74482",
 					"size": 10,
 					"children": [
 						{
 							"name": "Somebody That I Used to Know",
+							"color": "#A74482",
 							"size": 6
 						},
 						{
 							"name": "I Want It That Way",
+							"color": "#A74482",
 							"size": 3
 						},
 						{
 							"name": "The A Team",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Road Less Traveled",
+					"color": "#A74482",
 					"size": 6,
 					"children": [
 						{
 							"name": "Cinderella",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "Be Somebody",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Your Biggest Fan",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Imperfect Me",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Ride the Wave",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "New Acoustic Sessions, Vol. 1",
+					"color": "#A74482",
 					"size": 5,
 					"children": [
 						{
 							"name": "Dynamite",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "Just Can't Get Enough",
+							"color": "#A74482",
 							"size": 2
 						},
 						{
 							"name": "Just the Way You Are",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Acoustic Sessions: Vol. 1",
+					"color": "#A74482",
 					"size": 3,
 					"children": [
 						{
 							"name": "Leave Out All The Rest - Bonus Track",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Shadow of the Day",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Take You There",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "New Acoustic Sessions, Vol. 5",
+					"color": "#A74482",
 					"size": 3,
 					"children": [
 						{
 							"name": "Daylight",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "I Knew You Were Trouble",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Locked Out of Heaven",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Acoustic Sessions Vol. 3",
+					"color": "#A74482",
 					"size": 2,
 					"children": [
 						{
 							"name": "Good Riddance (Time of Your Life)",
+							"color": "#A74482",
 							"size": 2
 						}
 					]
 				},
 				{
 					"name": "Cover Collaborations, Vol. 3",
+					"color": "#A74482",
 					"size": 2,
 					"children": [
 						{
 							"name": "See You Again (feat. Bea Miller)",
+							"color": "#A74482",
 							"size": 1
 						},
 						{
 							"name": "Stay (feat. Mandy Lee)",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Acoustic Sessions, Vol. 3",
+					"color": "#A74482",
 					"size": 1,
 					"children": [
 						{
 							"name": "What Goes Around / Rehab - Bonus Track",
+							"color": "#A74482",
 							"size": 1
 						}
 					]
@@ -641,103 +690,127 @@
 			]
 		},
 		{
-			"name": "The kooks",
+			"name": "The Kooks",
+			"color": "#724CF9",
 			"size": 51,
 			"children": [
 				{
 					"name": "Konk",
+					"color": "#724CF9",
 					"size": 18,
 					"children": [
 						{
 							"name": "See the Sun",
+							"color": "#724CF9",
 							"size": 5
 						},
 						{
 							"name": "Always Where I Need to Be",
+							"color": "#724CF9",
 							"size": 3
 						},
 						{
 							"name": "Do You Wanna",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Down to the Market",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Mr. Maker",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Shine On",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Stormy Weather",
+							"color": "#724CF9",
 							"size": 2
 						}
 					]
 				},
 				{
 					"name": "Listen",
+					"color": "#724CF9",
 					"size": 18,
 					"children": [
 						{
 							"name": "Bad Habit",
+							"color": "#724CF9",
 							"size": 5
 						},
 						{
 							"name": "Sweet Emotion",
+							"color": "#724CF9",
 							"size": 4
 						},
 						{
 							"name": "It Was London",
+							"color": "#724CF9",
 							"size": 3
 						},
 						{
 							"name": "Are We Electric",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Westside",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Around Town",
+							"color": "#724CF9",
 							"size": 1
 						},
 						{
 							"name": "Forgive & Forget",
+							"color": "#724CF9",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Inside In / Inside Out",
+					"color": "#724CF9",
 					"size": 14,
 					"children": [
 						{
 							"name": "Ooh La",
+							"color": "#724CF9",
 							"size": 6
 						},
 						{
 							"name": "If Only",
+							"color": "#724CF9",
 							"size": 3
 						},
 						{
 							"name": "Naïve",
+							"color": "#724CF9",
 							"size": 2
 						},
 						{
 							"name": "Seaside",
+							"color": "#724CF9",
 							"size": 1
 						},
 						{
 							"name": "See the World",
+							"color": "#724CF9",
 							"size": 1
 						},
 						{
 							"name": "She Moves in Her Own Way",
+							"color": "#724CF9",
 							"size": 1
 						}
 					]
@@ -756,70 +829,85 @@
 		},
 		{
 			"name": "Years & Years",
+			"color": "#AAF683",
 			"size": 44,
 			"children": [
 				{
 					"name": "Desire",
+					"color": "#AAF683",
 					"size": 18,
 					"children": [
 						{
 							"name": "Desire",
+							"color": "#AAF683",
 							"size": 18
 						}
 					]
 				},
 				{
 					"name": "Communion",
+					"color": "#AAF683",
 					"size": 13,
 					"children": [
 						{
 							"name": "King",
+							"color": "#AAF683",
 							"size": 7
 						},
 						{
 							"name": "Desire",
+							"color": "#AAF683",
 							"size": 3
 						},
 						{
 							"name": "Gold",
+							"color": "#AAF683",
 							"size": 1
 						},
 						{
 							"name": "Memo",
+							"color": "#AAF683",
 							"size": 1
 						},
 						{
 							"name": "Real",
+							"color": "#AAF683",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Desire (Gryffin Remix)",
+					"color": "#AAF683",
 					"size": 11,
 					"children": [
 						{
 							"name": "Desire (Gryffin Remix)",
+							"color": "#AAF683",
 							"size": 11
 						}
 					]
 				},
 				{
 					"name": "Communion (Deluxe)",
+					"color": "#AAF683",
 					"size": 1,
 					"children": [
 						{
 							"name": "Shine",
+							"color": "#AAF683",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "King",
+					"color": "#AAF683",
 					"size": 1,
 					"children": [
 						{
 							"name": "King",
+							"color": "#AAF683",
 							"size": 1
 						}
 					]
@@ -828,100 +916,123 @@
 		},
 		{
 			"name": "Noel Gallagher's High Flying Birds",
+			"color": "#CA7DF9",
 			"size": 38,
 			"children": [
 				{
 					"name": "Noel Gallagher's High Flying Birds",
+					"color": "#CA7DF9",
 					"size": 27,
 					"children": [
 						{
 							"name": "(Stranded on) The Wrong Beach",
+							"color": "#CA7DF9",
 							"size": 6
 						},
 						{
 							"name": "(I Wanna Live in a Dream in My) Record Machine",
+							"color": "#CA7DF9",
 							"size": 3
 						},
 						{
 							"name": "AKA...What A Life!",
+							"color": "#CA7DF9",
 							"size": 3
 						},
 						{
 							"name": "Dream On",
+							"color": "#CA7DF9",
 							"size": 3
 						},
 						{
 							"name": "If I Had a Gun...",
+							"color": "#CA7DF9",
 							"size": 3
 						},
 						{
 							"name": "The Death of You and Me",
+							"color": "#CA7DF9",
 							"size": 3
 						},
 						{
 							"name": "A Simple Game of Genius",
+							"color": "#CA7DF9",
 							"size": 2
 						},
 						{
 							"name": "AKA...Broken Arrow",
+							"color": "#CA7DF9",
 							"size": 2
 						},
 						{
 							"name": "Everybody's on the Run",
+							"color": "#CA7DF9",
 							"size": 1
 						},
 						{
 							"name": "Stop the Clocks",
+							"color": "#CA7DF9",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Chasing Yesterday (Deluxe)",
+					"color": "#CA7DF9",
 					"size": 7,
 					"children": [
 						{
 							"name": "You Know We Can't Go Back",
+							"color": "#CA7DF9",
 							"size": 3
 						},
 						{
 							"name": "Riverman",
+							"color": "#CA7DF9",
 							"size": 2
 						},
 						{
 							"name": "In the Heat of the Moment",
+							"color": "#CA7DF9",
 							"size": 1
 						},
 						{
 							"name": "The Mexican",
+							"color": "#CA7DF9",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "Chasing Yesterday",
+					"color": "#CA7DF9",
 					"size": 3,
 					"children": [
 						{
 							"name": "Riverman",
+							"color": "#CA7DF9",
 							"size": 1
 						},
 						{
 							"name": "The Girl With X-Ray Eyes",
+							"color": "#CA7DF9",
 							"size": 1
 						},
 						{
 							"name": "The Mexican",
+							"color": "#CA7DF9",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "The Dying of the Light",
+					"color": "#CA7DF9",
 					"size": 1,
 					"children": [
 						{
 							"name": "The Dying of the Light",
+							"color": "#CA7DF9",
 							"size": 1
 						}
 					]
@@ -930,70 +1041,86 @@
 		},
 		{
 			"name": "The Weeknd",
+			"color": "#EDF67D",
 			"size": 35,
 			"children": [
 				{
 					"name": "Beauty Behind the Madness",
+					"color": "#EDF67D",
 					"size": 32,
 					"children": [
 						{
 							"name": "Can't Feel My Face",
+							"color": "#EDF67D",
 							"size": 6
 						},
 						{
 							"name": "Prisoner",
+							"color": "#EDF67D",
 							"size": 6
 						},
 						{
 							"name": "Losers",
+							"color": "#EDF67D",
 							"size": 5
 						},
 						{
 							"name": "Real Life",
+							"color": "#EDF67D",
 							"size": 5
 						},
 						{
 							"name": "Acquainted",
+							"color": "#EDF67D",
 							"size": 2
 						},
 						{
 							"name": "In The Night",
+							"color": "#EDF67D",
 							"size": 2
 						},
 						{
 							"name": "Often",
+							"color": "#EDF67D",
 							"size": 2
 						},
 						{
 							"name": "Tell Your Friends",
+							"color": "#EDF67D",
 							"size": 2
 						},
 						{
 							"name": "Dark Times",
+							"color": "#EDF67D",
 							"size": 1
 						},
 						{
 							"name": "The Hills",
+							"color": "#EDF67D",
 							"size": 1
 						}
 					]
 				},
 				{
 					"name": "The Hills Remixes",
+					"color": "#EDF67D",
 					"size": 2,
 					"children": [
 						{
 							"name": "The Hills - Remix",
+							"color": "#EDF67D",
 							"size": 2
 						}
 					]
 				},
 				{
 					"name": "Earned It (Fifty Shades Of Grey) [From The 'Fifty Shades Of Grey' Soundtrack]",
+					"color": "#EDF67D",
 					"size": 1,
 					"children": [
 						{
 							"name": "Earned It (Fifty Shades Of Grey) [From The 'Fifty Shades Of Grey' Soundtrack]",
+							"color": "#EDF67D",
 							"size": 1
 						}
 					]
@@ -1002,76 +1129,94 @@
 		},
 		{
 			"name": "Justin Bieber",
+			"color": "#F896D8",
 			"size": 34,
 			"children": [
 				{
 					"name": "Purpose (Deluxe)",
+					"color": "#F896D8",
 					"size": 31,
 					"children": [
 						{
 							"name": "Sorry",
+							"color": "#F896D8",
 							"size": 5
 						},
 						{
 							"name": "Company",
+							"color": "#F896D8",
 							"size": 4
 						},
 						{
 							"name": "What Do You Mean?",
+							"color": "#F896D8",
 							"size": 4
 						},
 						{
 							"name": "All in It",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "Been You",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "Children",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "Get Used To It",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "Love Yourself",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "No pressure",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "No Sense",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "Trust",
+							"color": "#F896D8",
 							"size": 2
 						},
 						{
 							"name": "Mark My Words",
+							"color": "#F896D8",
 							"size": 1
 						},
 						{
 							"name": "We Are",
+							"color": "#F896D8",
 							"size": 1
 						},
 						{
 							"name": "What Do You Mean? - Acoustic",
+							"color": "#F896D8",
 							"size": 2
 						}
 					]
 				},
 				{
 					"name": "Believe Acoustic",
+					"color": "#F896D8",
 					"size": 3,
 					"children": [
 						{
 							"name": "Boyfriend - Acoustic Version",
+							"color": "#F896D8",
 							"size": 3
 						}
 					]

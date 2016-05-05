@@ -10,8 +10,6 @@ $( document ).ready(function() {
 	var y = d3.scale.sqrt()
 	    .range([0, radius]);
 
-	var colorTopArtist = d3.scale.category20c();
-
 	function format_description(d) {
 	  return  '<b>' + d.name + '</b></br>'+ d.size;
 	}
@@ -62,7 +60,7 @@ $( document ).ready(function() {
 	      .data(partition.nodes)
 	    	.enter().append("path")
 	      .attr("d", arc)
-	      .style("fill", function(d) { return colorTopArtist((d.children ? d : d.parent).name); })
+	      .style("fill", function(d) { return d.color; })
 	      .on("click", click)
 	      .on("mouseover", mouseOverArc)
 	      .on("mouseout", mouseOut)
