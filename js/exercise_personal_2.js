@@ -11,7 +11,10 @@ $( document ).ready(function() {
 	    .range([0, radius]);
 
 	function format_description(d) {
-	  return  '<b>' + d.name + '</b></br>'+ d.size;
+		console.log(d);
+	  return '<div class="circle-reference" style="background-color:' + d.color + '"></div>' +
+                    '<span class="title">' + d.name + 
+                    '</span><span class="data">' + d.size + '</span>'; 
 	}
 
 	var tooltip = d3.select("#container-2")
@@ -26,12 +29,14 @@ $( document ).ready(function() {
 	      return tooltip.transition()
 		    .style("left", (d3.event.pageX+12) + "px")
 		    .style("top", (d3.event.pageY-10) + "px")
+ 				.style("display", "block")
         .duration(50)
         .style("opacity", 0.9);
     }
 
  function mouseOut(d) {
  	tooltip.html("");
+ 	tooltip.style("display", "none");
  	return tooltip;
  }
 
