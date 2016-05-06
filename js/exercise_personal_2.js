@@ -59,7 +59,7 @@ $( document ).ready(function() {
 	// Keep track of the node that is currently being displayed as the root.
 	var node;
 
-	d3.json("https://bl.ocks.org/mbostock/raw/4063550/flare.json", function(error, root) {
+	d3.json("https://raw.githubusercontent.com/noeliablopez/infovis/gh-pages/data/flare.json", function(error, root) {
 	  node = root;
 	  var path = svg.datum(root).selectAll("path")
 	      .data(partition.nodes)
