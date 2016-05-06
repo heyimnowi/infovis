@@ -6,12 +6,12 @@
 		{
 			"name": "Florence + the Machine",
 			"color": "#FF3562",
-			"playcount": 133,
+			"size": 133,
 			"children": [
 				{
 					"name": "How Big, How Blue, How Beautiful (Deluxe)",
 					"color": "#FF3562",
-					"playcount": 51,
+					"size": 51,
 					"children": [
 						{
 							"name": "Delilah",
@@ -88,7 +88,7 @@
 				{
 					"name": "Between Two Lungs",
 					"color": "#FF3562",
-					"playcount": 41,
+					"size": 41,
 					"children": [
 						{
 							"name": "You've Got the Love",
@@ -135,7 +135,7 @@
 				{
 					"name": "Ceremonials (Original Deluxe Version)",
 					"color": "#FF3562",
-					"playcount": 26,
+					"size": 26,
 					"children": [
 						{
 							"name": "Spectrum",
@@ -182,7 +182,7 @@
 				{
 					"name": "MTV Presents Unplugged: Florence + the Machine",
 					"color": "#FF3562",
-					"playcount": 7,
+					"size": 7,
 					"children": [
 						{
 							"name": "Dog Days Are Over - MTV Unplugged, 2012",
@@ -214,7 +214,7 @@
 				{
 					"name": "Ceremonials",
 					"color": "#FF3562",
-					"playcount": 5,
+					"size": 5,
 					"children": [
 						{
 							"name": "Breaking Down",
@@ -246,7 +246,7 @@
 				{
 					"name": "Lungs (Deluxe Version)",
 					"color": "#FF3562",
-					"playcount": 5,
+					"size": 5,
 					"children": [
 						{
 							"name": "Cosmic Love",
@@ -278,7 +278,7 @@
 				{
 					"name": "Ceremonials (Original Deluxe Version)",
 					"color": "#FF3562",
-					"playcount": 26,
+					"size": 26,
 					"children": [
 						{
 							"name": "Spectrum",
@@ -325,7 +325,7 @@
 				{
 					"name": "MTV Presents Unplugged: Florence + the Machine",
 					"color": "#FF3562",
-					"playcount": 7,
+					"size": 7,
 					"children": [
 						{
 							"name": "Dog Days Are Over - MTV Unplugged, 2012",
@@ -357,7 +357,7 @@
 				{
 					"name": "Ceremonials",
 					"color": "#FF3562",
-					"playcount": 5,
+					"size": 5,
 					"children": [
 						{
 							"name": "Cosmic Love",
@@ -389,7 +389,7 @@
 				{
 					"name": "Lungs (International Version)",
 					"color": "#FF3562",
-					"playcount": 3,
+					"size": 3,
 					"children": [
 						{
 							"name": "Blinding",
@@ -411,7 +411,7 @@
 				{
 					"name": "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
 					"color": "#FF3562",
-					"playcount": 1,
+					"size": 1,
 					"children": [
 						{
 							"name": "I Love You All the Time (Play It Forward Campaign) [feat. The Maccabees]",
