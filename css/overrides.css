@@ -20,3 +20,16 @@
 .og-grid li > a img {
 	width: 200px;
 }
+
+.codrops-header h1 {
+	font-weight: 300;
+	color: #08D9D6;
+}
+
+.codrops-header h2 {
+	font-size: 1.5em;
+}
+
+.grid__title {
+  color: #FF2E63;
+}

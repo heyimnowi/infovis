@@ -1,19 +1,112 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>infoVis</title>
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <link rel="stylesheet" type="text/css" href="css/index.css">
-</head>
-<body class="toy-background">
-  <div class="white-container">
-	<h1>Visualización de la Información</h1>
-	<div class="bar"></div>
-	<h2>2016</h2>
-	<p>Este repositorio contiene los TPS de Noelia Belén López correspondientes a la materia Visualización de la Información. Objetivos de la materia: Representar un conjunto de datos de manera visual utilizando herramientas o programando una solución ad-hoc. Para llegar a este objetivo, se presentaran buenas practicas y antecedentes inspiradores para lograr este objetivo. Conocer el estado del arte de la tecnología para realizar esta tarea. Formar a los alumnos para estar preparados en el diseño, la implementación y la evaluación de visualizaciones interactivas o infografías estáticas.</p>
-  <a class="link pink-link" href="exercises.html">TPS</a>
-  </div>
-</body>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>infoVis</title>
+		<meta name="description" content="Decorative &amp; interactive isometric &amp; 3D grids." />
+		<meta name="keywords" content="isometric, grid, images, masonry, perspective" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="stylesheet" type="text/css" href="css/overrides.css" />
+		<script src="js/modernizr.custom.js"></script>
+	</head>
+	<body class="demo-1">
+		<main>
+			<header class="codrops-header">
+				<h1>Visualización de la Información</h1>
+				<h2>Este repositorio contiene los TPS de Noelia Belén López correspondientes a la materia Visualización de la Información</h2>
+			</header>
+			<div class="isolayer isolayer--scroll1 isolayer--shadow">
+				<ul class="grid grid--effect-flip">
+					<li class="grid__item">
+						<a class="grid__link" href="exercise_1.html">
+							<img class="grid__img layer" src="images/11.png" />
+							<span class="grid__title">TP1: Word Cloud</span>
+						</a>
+					</li>
+					<li class="grid__item">
+						<a class="grid__link" href="exercise_2.html">
+							<img class="grid__img layer" src="images/22.png" />
+							<span class="grid__title">TP2: D3 + SVG</span>
+						</a>
+					</li>
+					<li class="grid__item">
+						<a class="grid__link" href="exercise_4.html">
+							<img class="grid__img layer" src="images/44.png" />
+							<span class="grid__title">TP4: Círculos</span>
+						</a>
+					</li>
+					<li class="grid__item">
+						<a class="grid__link" href="http://spotify-statistics.s3-website-us-east-1.amazonaws.com">
+							<img class="grid__img layer" src="images/p.png" />
+							<span class="grid__title">TP Personal: Datos Generales</span>
+						</a>
+					</li>
+					<li class="grid__item">
+						<a class="grid__link" href="http://spotify-statistics.s3-website-us-east-1.amazonaws.com/top-artists">
+							<img class="grid__img layer" src="images/p1.png" />
+							<span class="grid__title">TP Personal: Artistas preferidos</span>
+						</a>
+					</li>
+					<li class="grid__item">
+						<a class="grid__link" href="http://spotify-statistics.s3-website-us-east-1.amazonaws.com/top-tracks">
+							<img class="grid__img layer" src="images/p2.png" />
+							<span class="grid__title">TP Personal: Canciones preferidas</span>
+						</a>
+					</li>
+					<li class="grid__item">
+						<a class="grid__link" href="http://spotify-statistics.s3-website-us-east-1.amazonaws.com/similar-artist">
+							<img class="grid__img layer" src="images/p3.png" />
+							<span class="grid__title">TP Personal: Artistas similares</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</main>
+		<script src="js/imagesloaded.pkgd.min.js"></script>
+		<script src="js/masonry.pkgd.min.js"></script>
+		<script src="js/dynamics.min.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/animOnScroll.js"></script>
+		<script src="js/main.js"></script>
+		<script>
+		(function() {
+			function getRandomInt(min, max) {
+				return Math.floor(Math.random() * (max - min + 1)) + min;
+			}
+
+			[].slice.call(document.querySelectorAll('.isolayer')).forEach(function(el) {
+				new IsoGrid(el, {
+					type : 'scrollable',
+					transform : 'translateX(-15vw) translateY(275px) rotateX(45deg) rotateZ(45deg)',
+					stackItemsAnimation : {
+						properties : function(pos) {
+							return {
+								translateZ: (pos+1) * 50,
+								rotateZ: getRandomInt(-3, 3)
+							};
+						},
+						options : function(pos, itemstotal) {
+							return {
+								type: dynamics.bezier,
+								duration: 500,
+								points: [{"x":0,"y":0,"cp":[{"x":0.2,"y":1}]},{"x":1,"y":1,"cp":[{"x":0.3,"y":1}]}],
+								//delay: (itemstotal-pos-1)*40
+							};
+						}
+					},
+					onGridLoaded : function() {
+						classie.add(document.body, 'grid-loaded');
+					}
+				});
+			});
+		})();
+		</script>
+	</body>
 </html>

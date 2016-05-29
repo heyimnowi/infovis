@@ -1,7 +1,6 @@
 {
 	"name": "Top artist",
 	"size": 10,
-	"color": "hsla(360, 100%, 25%, 1)",
 	"children": [
 		{
 			"name": "Florence + the Machine",
